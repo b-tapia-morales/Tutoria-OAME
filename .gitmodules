@@ -7,3 +7,6 @@
 [submodule "MatrixBased"]
 	path = MatrixBased
 	url = https://github.com/b-tapia-morales/MatrixBased
+[submodule "MiniPrograms"]
+	path = MiniPrograms
+	url = https://github.com/b-tapia-morales/MiniPrograms
