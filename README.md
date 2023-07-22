@@ -8,9 +8,10 @@ Los submódulos del repositorio actual representan los códigos que he desarroll
 
 ## Estructura del proyecto
 
-- **[https://github.com/b-tapia-morales/TicTacToe](TicTacToe)**: Juego del gato.
-- **[https://github.com/b-tapia-morales/NavalBattle](NavalBattle)**: Batalla Naval.
-- **[https://github.com/b-tapia-morales/MatrixBased](MatrixBased)**: Recorrido de matrices bi-dimensionales.
+- **[MiniPrograms](https://github.com/b-tapia-morales/MiniPrograms)**: Ejecución de subprogramas mediante opciones de menú.
+- **[TicTacToe](https://github.com/b-tapia-morales/TicTacToe)**: Juego del gato.
+- **[NavalBattle](https://github.com/b-tapia-morales/NavalBattle)**: Batalla Naval.
+- **[MatrixBased](https://github.com/b-tapia-morales/MatrixBased)**: Recorrido de matrices bi-dimensionales.
 
 ## Comentario
 
