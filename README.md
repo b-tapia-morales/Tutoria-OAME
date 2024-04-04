@@ -2,14 +2,17 @@
 
 ## Visión general
 
-El repositorio actual contiene los códigos que trabajé correspondientes a la tutoría para la asignatura de *Programación Estructurada*. En mi último año como estudiante de la carrera de *Ingeniería en Computación* de la *Universidad de La Serena*, desempeñé el rol de **Tutor Especialista** como parte de la *Escuela de Tutores* de la **Oficina de Acompañamiento y Monitoreo Estudiantil** (OAME), teniendo a cargo 18 tutorados.
+El repositorio actual contiene los códigos que he trabajado a lo largo del semestre correspondientes a la tutoría para la asignatura de *Introducción a la Informática y Computación*. Además de ser estudiante de último año de la carrera de *Ingeniería en Computación* de la *Universidad de La Serena* el año 2023, he desempeñado el rol de **Tutor Par** como parte de la *Escuela de Tutores* de la **Oficina de Acompañamiento y Monitoreo Estudiantil** (OAME), teniendo a cargo 18 tutorados.
 
-Los submódulos del repositorio actual representan los códigos que desarrollé en las sesiones de la tutoría con el objetivo de ayudar a mis tutorados a resolver los trabajos que se les pidió entregar para la asignatura de *Programación Estructurada*. También desarrollar material propio para enseñar de manera didáctica algunos contenidos en específico (por ejemplo, ver documentación trabajada para explicar los fundamentos teóricos de [las listas](https://github.com/b-tapia-morales/DataStructures/tree/master/docs)).
+Los submódulos del repositorio actual representan los códigos que he desarrollado en las sesiones de la tutoría con el objetivo de ayudar a mis tutorados a resolver los trabajos que se les ha pedido entregar para la asignatura de *Introducción a la Informática y Computación* a lo largo del semestre. También he desarrollado material propio como tareas para enseñar de manera didáctica algunos contenidos en específico (por ejemplo, [este submódulo](https://github.com/b-tapia-morales/MatrixBased) fue desarrollado para ejercitar con matrices bi-dimensionales).
 
 ## Estructura del proyecto
 
-- **[Maze](https://github.com/b-tapia-morales/Maze)**: Resolución del problema del laberinto utilizando backtracking.
-- **[KnightTour](https://github.com/b-tapia-morales/KnightTour)**: [Problema del caballo](https://en.wikipedia.org/wiki/Knight%27s_tour) utilizando backtracking.
-- **[EightQueens](https://github.com/b-tapia-morales/EightQueens)**: [Problema de las ocho reinas](https://en.wikipedia.org/wiki/Eight_queens_puzzle) utilizando backtracking.
-- **[MagicSquare](https://github.com/b-tapia-morales/MagicSquare)**: [Problema del cuadrado mágico](https://mathworld.wolfram.com/MagicSquare.html) utilizando backtracking.
-- **[DataStructures](https://github.com/b-tapia-morales/DataStructures)**: Implementación de operaciones de inserción, búsqueda, y eliminación sobre una lista simple enlazada.
+- **[MiniPrograms](https://github.com/b-tapia-morales/MiniPrograms)**: Ejecución de subprogramas mediante opciones de menú.
+- **[TicTacToe](https://github.com/b-tapia-morales/TicTacToe)**: Juego del gato.
+- **[NavalBattle](https://github.com/b-tapia-morales/NavalBattle)**: Batalla Naval.
+- **[MatrixBased](https://github.com/b-tapia-morales/MatrixBased)**: Recorrido de matrices bi-dimensionales.
+
+## Comentario
+
+El código fuente de los repositorios respectivos fue escrito teniendo en cuenta algunas limitantes impuestas por el docente a cargo de la asignatura, como la no-utilización de los ciclos iterativos *for*. Algunas limitantes no se respetaron por ser demasiado restrictivas, como por ejemplo, ceñirse a la versión estándar C90 del lenguaje C, no utilizar *header files*, no utilizar variables *bool*, entre otras.
